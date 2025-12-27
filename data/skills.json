@@ -1,20 +1,45 @@
 [
   {
-    "grouping": "Kỹ năng lập trình & Công cụ",
-    "skills": [
-      "Java",
-      "JavaScript",
-      "Network / AWS",
-      "Database"
-    ]
-  },
-  {
-    "grouping": "Quy trình làm việc & Kỹ năng mềm",
-    "skills": [
-      "Làm việc nhóm",
-      "Thuyết trình",
-      "Viết báo cáo",
-      "Chủ động hỗ trợ"
+    "toolset": [
+      {
+        "name": "Java",
+        "icon": "fab fa-java"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "fab fa-js-square"
+      },
+      {
+        "name": "HTML5",
+        "icon": "fab fa-html5"
+      },
+      {
+        "name": "CSS3",
+        "icon": "fab fa-css3-alt"
+      },
+      {
+        "name": "AWS",
+        "icon": "fab fa-aws"
+      },
+      {
+        "name": "Git",
+        "icon": "fab fa-git-alt"
+      },
+      {
+        "name": "Database",
+        "icon": "fas fa-database"
+      },
+      {
+        "name": "NPM",
+        "icon": "fab fa-npm"
+      }
+    ],
+    "workflow": [
+      "Tư duy hướng đối tượng (OOP)",
+      "Làm việc nhóm & Giao tiếp",
+      "Quản lý mã nguồn (Git/GitHub)",
+      "Nghiên cứu tài liệu tiếng Anh",
+      "Chủ động giải quyết vấn đề (Problem Solving)"
     ]
   }
 ]
