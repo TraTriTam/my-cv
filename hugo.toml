@@ -1,5 +1,5 @@
 title = "Trà Trí Tâm"
-baseURL = "https://github.com/TraTriTam/my-cv"
+baseURL = "https://TraTriTam.github.io/my-cv/"
 theme = "hugo-resume"
 languageCode = "vi-vn"
 PygmentsCodeFences = true
