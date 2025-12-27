@@ -149,3 +149,65 @@ a:hover {
     color: #b0b0b0 !important; /* Xám sáng */
     line-height: 1.6; /* Giãn dòng cho thoáng */
 }
+/* --- TRANG TRÍ MỤC KỸ NĂNG (SKILLS) --- */
+
+/* 1. Khung thẻ bài chung */
+.skill-card {
+    background-color: #262626;  /* Nền tối */
+    border-radius: 15px;
+    padding: 30px;
+    border-top: 5px solid #e91e63; /* Viền trên màu hồng đỏ */
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+    transition: transform 0.3s ease;
+}
+
+.skill-card:hover {
+    transform: translateY(-5px); /* Bay lên nhẹ khi di chuột */
+    box-shadow: 0 15px 30px rgba(233, 30, 99, 0.2); /* Đổ bóng hồng */
+}
+
+/* Tiêu đề con */
+.skill-title {
+    color: #fff;
+    font-size: 1.5rem;
+    border-bottom: 1px solid #444;
+    padding-bottom: 15px;
+}
+
+/* 2. Icon Lập trình (Dev Icons) */
+.dev-icons .list-inline-item {
+    text-align: center;
+    margin-right: 1.5rem;
+    margin-bottom: 1.5rem;
+    transition: all 0.3s;
+}
+
+.dev-icons .list-inline-item i {
+    font-size: 3.5rem;  /* Icon to rõ ràng */
+    color: #a3a3a3;     /* Màu gốc xám nhạt */
+    transition: color 0.3s;
+}
+
+/* Hiệu ứng khi di chuột vào icon: Đổi màu hồng đỏ và phóng to */
+.dev-icons .list-inline-item:hover i {
+    color: #e91e63;
+    transform: scale(1.2);
+}
+
+.skill-name {
+    font-size: 0.8rem;
+    color: #888;
+    margin-top: 5px;
+}
+
+/* 3. Danh sách Kỹ năng mềm */
+.workflow-list li {
+    margin-bottom: 15px; /* Giãn cách dòng */
+    font-size: 1.1rem;
+    color: #d1d5db;      /* Màu chữ sáng dễ đọc */
+}
+
+/* Chỉnh màu dấu tích (Checkmark) */
+.fa-li.text-primary {
+    color: #e91e63 !important; /* Bắt buộc màu hồng đỏ */
+}
