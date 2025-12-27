@@ -1,6 +1,6 @@
 title = "Trà Trí Tâm"
 baseURL = "https://tratritam.github.io/"
-theme = "hugo-resume"
+theme = "hugo-resume-custom"
 languageCode = "vi-vn"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true

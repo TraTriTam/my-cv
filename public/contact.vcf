@@ -16,7 +16,7 @@ EMAIL;TYPE=INTERNET,PREF:tamtra2004@gmail.com
 EMAIL;TYPE=INTERNET,WORK:
 
 
-PHOTO;TYPE=JPG;VALUE=URI:http://localhost:1313/my-cv/img/TraTriTam.png
+PHOTO;TYPE=JPG;VALUE=URI:http://localhost:1313/img/TraTriTam.png
 
 
 ORG:Trường ĐH Công nghệ TP.HCM (HUTECH)
@@ -25,6 +25,6 @@ ORG:Trường ĐH Công nghệ TP.HCM (HUTECH)
 TITLE:
 
 
-URL:http://localhost:1313/my-cv/
+URL:http://localhost:1313/
 
 END:VCARD
