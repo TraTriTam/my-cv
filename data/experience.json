@@ -2,13 +2,13 @@
   {
     "position": "Sinh viên CNTT",
     "company": "Trường ĐH Công nghệ TP.HCM (HUTECH)",
-    "details": "Chuyên ngành Kỹ thuật phần mềm. GPA tích lũy: 3.2/4.0. Tập trung nghiên cứu sâu về Java Core, Lập trình mạng và Kiến trúc Cloud (AWS).",
+    "details": "Chuyên ngành Mạng máy tính. GPA tích lũy: 3.2/4.0. Tập trung nghiên cứu sâu về Lập trình mạng (Socket, TCP/IP), Java Backend và Kiến trúc Cloud (AWS).",
     "time": "2022 - Nay"
   },
   {
     "position": "Freelancer / Tự Nghiên Cứu",
     "company": "Dự án Cá nhân",
-    "details": "Tự xây dựng Blog cá nhân sử dụng Hugo & GitHub Pages. Phát triển ứng dụng Chat LAN bằng Java Socket. Tham gia các khóa học chuyên sâu của Cisco.",
+    "details": "Tự xây dựng Blog cá nhân sử dụng Hugo & GitHub Pages. Phát triển ứng dụng Chat LAN bằng Java Socket. Tham gia các khóa học chuyên sâu của Cisco (CCNA).",
     "time": "2024 - Nay"
   }
 ]
